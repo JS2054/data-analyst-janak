@@ -154,7 +154,7 @@ S3 operates as a flexible container service that supports data storage and retri
 The diagram software Draw.io enables users to build data analytic platform diagrams.  
 
 
-<img width="462" alt="image" src="https://github.com/user-attachments/assets/269e9c6e-8f62-4ecd-aa74-ff92cdf3b024" />
+![Janak Portfolio -CC Solution #5 drawio](https://github.com/user-attachments/assets/3495cb5a-1223-44d8-9245-ce704e8e1704)
 
 
  
