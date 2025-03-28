@@ -153,7 +153,9 @@ S3 operates as a flexible container service that supports data storage and retri
 
 The diagram software Draw.io enables users to build data analytic platform diagrams.  
 
-<img width="755" alt="image" src="https://github.com/user-attachments/assets/2d85fd75-e802-4135-80b8-0ff5cd5d2b69" />
+
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/269e9c6e-8f62-4ecd-aa74-ff92cdf3b024" />
+
 
  
 The visualized data analytic platform (DAP) serves as a data processing system built to handle Vancouver parks information. The image displays the data path through several essential processing steps which start with ingestion before moving to summarization. Data ingestion processes occur on the left section of the diagram it shows how raw information arrives from multiple sources. Data cleaning together with transformation appear in the central section because they form the basics for achieving data quality. Data cataloging services are shown on the right side while structured table systems maintain data accessibility through proper labeling as the main features. The diagram presents a comprehensive structure of the DAP design which shows data movement from intake to summary processing to support insights extraction from the Parks in the City of Vancouver dataset.
