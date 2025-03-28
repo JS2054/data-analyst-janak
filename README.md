@@ -193,6 +193,9 @@ Conclusion
 
 The Analyzing Parks in the City of Vancouver project establishes a systematic method to analyze and handle Vancouver park data for better park facility distribution observations and visitor trends assessment. As part of its functions, continuous improvements occur in green space administration along with increases in park community participation. Additional developments can include real-time visitor insights and predictive analytics for more intelligent urban planning.
 
+Course Completion Badge:
+
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/c541bce2-ebce-48b3-9ad1-a4d1ae4c6cf0" />
 
 
 
