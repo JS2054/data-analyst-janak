@@ -41,17 +41,21 @@ Data Ingestion: Acquiring raw data from sources like APIs or cloud storage.
 File pathway after data ingestion through Remote Desktop Connection (RDP)
 ![image](https://github.com/user-attachments/assets/7fbd1563-8d92-416c-ab39-ff2316502108)
 
+
 Data Profiling: Examining data consistency and quality.
 
 ![image](https://github.com/user-attachments/assets/08a56c12-af91-4dd9-bb32-06b3c47e5940)
+
 
 Data Cleaning: The process of data cleaning involves both error fixations and the removal of inconsequential data.
 
 ![image](https://github.com/user-attachments/assets/988d5b6a-fbaf-4323-bfad-8056e871be3c)
 
+
 Data Cataloging: Organizing data for accessibility and usability.
 
 ![image](https://github.com/user-attachments/assets/62ee2531-f295-4025-a9a9-616142b23a73)
+
 
 Data Summarization: The process of data processing yields insights by summarizing data through its analysis phase.
 
@@ -61,6 +65,7 @@ Data Summarization: The process of data processing yields insights by summarizin
 Data Analysis: Data Analysis serves to extract beneficial information from the available dataset.
 
 ![image](https://github.com/user-attachments/assets/4fcb4d63-1159-4e71-a552-e9a5042d4d8b)
+
 
 Business Questions:
 
@@ -89,7 +94,6 @@ Data Monitoring: Observing data activity and system performance.
 ![image](https://github.com/user-attachments/assets/d63e5102-d209-4c8e-9685-f7bb2be8080f)
 
 
-
 Descriptive Statistics: The analysis calculates three fundamental metrics consisting of average park dimensions together with location data and visitor traffic records.
 
 
@@ -104,6 +108,7 @@ Summarized Graphs of Dataset
 
 ![image](https://github.com/user-attachments/assets/e7bd4b50-c16d-4af2-82c6-258743111122)
 
+
 Finding & Recommendations: The research gathered essential information that enhances the management of park resources.
 
 
@@ -115,6 +120,7 @@ Tools & Technologies:
 
 This project heavily uses AWS cloud services and other tools and technologies.
 
+
 •	AWS (S3, Glue, Data Brew, Beanstalk, CloudWatch, CloudTrail, KMS, Athena)
 
 S3 Storing Data
@@ -123,13 +129,16 @@ S3 Storing Data
 
 ![image](https://github.com/user-attachments/assets/b90a6793-dca8-468f-96d1-9fb1a5fecccd)
 
+
 Web Application through Beanstalk
 
 ![image](https://github.com/user-attachments/assets/919f4994-0d5b-499e-970d-f92e91e1bc86)
 
+
 Key Management Service (KMS)
 
 ![image](https://github.com/user-attachments/assets/36d34c8e-36f1-40e3-a8c8-7e1bffb33e30)
+
 
 Cloud Trial
 
@@ -137,6 +146,7 @@ Cloud Trial
 
 
 S3 operates as a flexible container service that supports data storage and retrieval functions. Glue serves as a serverless service which makes data preparation easier for machine learning and analytics deployments. Glue Data Brew presents a graphical user interface that enables users to create normalized and clean data. Version 3.0 of Beanstalk enables users to deploy and manage web applications with a built-in automatic scalability feature. CloudWatch grants users important insights about their AWS resources and applications through observability functionalities. CloudTrail tracks events that document API activities along with AWS user actions performed in the system. Key Management Service makes it easy to handle cryptographic key composition as well as administration functions. Users can access S3-based data through SQL language applications by using Athena as an interactive service.
+
  
 •	Drwa.io
 
@@ -145,8 +155,7 @@ The diagram software Draw.io enables users to build data analytic platform diagr
 
 <img width="755" alt="image" src="https://github.com/user-attachments/assets/2d85fd75-e802-4135-80b8-0ff5cd5d2b69" />
 
-
-The diagram software Draw.io enables users to build data analytic platform diagrams.    
+ 
 The visualized data analytic platform (DAP) serves as a data processing system built to handle Vancouver parks information. The image displays the data path through several essential processing steps which start with ingestion before moving to summarization. Data ingestion processes occur on the left section of the diagram it shows how raw information arrives from multiple sources. Data cleaning together with transformation appear in the central section because they form the basics for achieving data quality. Data cataloging services are shown on the right side while structured table systems maintain data accessibility through proper labeling as the main features. The diagram presents a comprehensive structure of the DAP design which shows data movement from intake to summary processing to support insights extraction from the Parks in the City of Vancouver dataset.
 
 
@@ -156,8 +165,6 @@ The visualized data analytic platform (DAP) serves as a data processing system b
 Through PowerShell, users can execute commands from a command-line interface to automate procedures for uploading Amazon S3 data.    
 
 ![image](https://github.com/user-attachments/assets/8046b455-f9c5-4f1f-b220-159885956ff1)
-
-
 
 
 Deliverables:
@@ -177,6 +184,7 @@ The deliverables from both projects are mentioned below:
 •	Summarized graph of the dataset.    
 •	High-quality Data Quality Analysis Table.    
 •	The output from running the job.    
+
 
 Conclusion
 
